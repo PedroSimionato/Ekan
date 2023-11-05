@@ -1,0 +1,13 @@
+package com.br.testeEkan;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class TesteEkanApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(TesteEkanApplication.class, args);
+	}
+
+}
